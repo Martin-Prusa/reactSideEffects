@@ -1,0 +1,16 @@
+.main {
+  height: 200vh;
+  width: 100vw;
+  background-color: #c0fff7;
+  position: relative;
+}
+
+.text {
+  position: absolute;
+  top: 70%;
+}
+
+.text div {
+  width: 20vw;
+}
+
